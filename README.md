@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at MaltCommunity as DevOps Engineer
+- 🔭 I’m currently working at MaltCommunity as a Senior Data Engineer
+- my personal blog : [aperogeek](https://aperogeek.fr)
 
 
 ### Contributions :tada:
